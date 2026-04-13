@@ -4,13 +4,14 @@ Vaasa, Finland
 +358 44 950 9699 | lakshansiriwardhana@yahoo.com  
 LinkedIn: https://www.linkedin.com/in/lakshan-siriwardhana-5811b3121  
 GitHub: https://github.com/Lakshan15308
+Docker Hub: https://hub.docker.com/repositories/laka15308
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Professional Summary
 Senior Information Security Engineer with over 10 years of experience across banking, enterprise IT, and cloud security environments. Strong background in SOC operations (L2/L3), cloud security on Microsoft Azure, vulnerability management, and threat intelligence. Currently pursuing an MSc in Artificial Intelligence and Data Engineering in Finland, with a solid foundation in security automation, data-driven analysis, and modern security platforms.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Core Skills
 - Cloud Security (Microsoft Azure, WAF, CSPM)
@@ -25,7 +26,7 @@ Senior Information Security Engineer with over 10 years of experience across ban
 - Python Programming
 - Machine Learning Fundamentals
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Professional Experience
 
@@ -52,25 +53,25 @@ Senior Information Security Engineer with over 10 years of experience across ban
 - Participated in Business Continuity Planning (BCP) and Disaster Recovery (DR) initiatives.
 - Supported ATM network operations to maintain service availability.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Education
 
 ### Master of Science (MSc) – Artificial Intelligence & Data Engineering  
-**University of Vaasa, Finland** | 2025 – 2027 (Ongoing)
+**University of Vaasa, Finland** | 2025 – 2027 (Reading)
 - Focus areas: Machine Learning, Data Engineering, Governance, Analytics
 
 ### Bachelor of Science (BSc) – Cyber Security (First Class Honours)  
 **University of Gloucestershire, United Kingdom** | 2019 – 2020
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Certifications
 - Certified Ethical Hacker (CEH v12)
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft Security, Compliance & Identity Fundamentals (SC-900)
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tools & Technologies
 - Microsoft Sentinel, Microsoft Defender (EASM, XDR)
@@ -86,17 +87,14 @@ Senior Information Security Engineer with over 10 years of experience across ban
 - Visual Studio Code, PyCharm
 - Jira, Trello
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Languages
 - English – Professional
-- Sinhala – Native
 - Finnish – Basic
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Additional Information
-- Technical Blog: [https://threathuntingprocess.blogspot.com/2022/11/threat-hunting.html](https://aiwithsecurity.blogspot.com/2025/12/threat-hunting.html)
-- Docker Hub: https://hub.docker.com/repositories/laka15308
+
 
 
