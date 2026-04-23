@@ -1,100 +1,20 @@
-# Lakshan Siriwardhana
+<h1 align="center">Hi 👋, I'm Lakshan Siriwardhana</h1>
+<h3 align="center">Cybersecurity Expert | Cloud Security | AI & Data Engineering Enthusiast | Network Admin Specialist</h3>
 
-Vaasa, Finland  
-+358 44 950 9699 | lakshansiriwardhana@yahoo.com  
-LinkedIn: https://www.linkedin.com/in/lakshan-siriwardhana-5811b3121  
-GitHub: https://github.com/Lakshan15308
-Docker Hub: https://hub.docker.com/repositories/laka15308
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshan15308" alt="lakshan15308" /></a> </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🌱 I’m currently learning **Masters of Science Degree, in Artificial Intelligence and Data Engineering.**
 
-## Professional Summary
-Senior Information Security Engineer with over 10 years of experience across banking, enterprise IT, and cloud security environments. Strong background in SOC operations (L2/L3), cloud security on Microsoft Azure, vulnerability management, and threat intelligence. Currently pursuing an MSc in Artificial Intelligence and Data Engineering in Finland, with a solid foundation in security automation, data-driven analysis, and modern security platforms.
+- 📫 How to reach me **lakshansiriwardhana@yahoo.com**
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshan-siriwardhana-5811b3121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshan-siriwardhana-5811b3121/" height="30" width="40" /></a>
+<a href="https://instagram.com/luksh_thorstein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luksh_thorstein" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@lakshan_siriwardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lakshan_siriwardhana" height="30" width="40" /></a>
+</p>
 
-## Core Skills
-- Cloud Security (Microsoft Azure, WAF, CSPM)
-- SOC Operations & Incident Response (L2/L3)
-- SIEM / XDR / EDR (Microsoft Sentinel, Defender)
-- Vulnerability & Patch Management
-- Threat Intelligence & Threat Hunting
-- Penetration Testing Coordination & Remediation
-- Security Policies, ISO 27001 & SOC 2
-- Security Automation (Azure Logic Apps, Power Automate)
-- Networking (Routing & Switching)
-- Python Programming
-- Machine Learning Fundamentals
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Professional Experience
-
-### Senior Information Security Engineer  
-**IFS R&D International (UK)** | 2022 – 2025
-- Supported SOC and security monitoring operations using SIEM and Microsoft Defender XDR technologies.
-- Implemented and managed cloud security controls in Microsoft Azure, including posture management and remediation.
-- Conducted vulnerability assessments, coordinated penetration testing activities, and tracked remediation efforts.
-- Performed threat intelligence analysis and supported incident investigations and post-incident reviews.
-- Contributed to security assurance activities and alignment with internal security policies and standards.
-
-### Network Specialist  
-**HCL Technologies (India)** | 2021 – 2022
-- Configured, monitored, and troubleshot enterprise network infrastructure.
-- Managed Cisco routing and switching environments and supported wireless networking solutions.
-- Monitored network performance and availability in large-scale enterprise environments.
-- Collaborated with cross-functional teams to resolve incidents and improve network reliability.
-
-### Junior Executive Assistant – Data Centre Operator  
-**Commercial Bank of Ceylon PLC (Sri Lanka)** | 2013 – 2021
-- Supported 24/7 data centre operations in a regulated banking environment.
-- Monitored core banking systems and infrastructure, including AS/400 platforms.
-- Performed incident escalation, system troubleshooting, and operational support.
-- Participated in Business Continuity Planning (BCP) and Disaster Recovery (DR) initiatives.
-- Supported ATM network operations to maintain service availability.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Education
-
-### Master of Science (MSc) – Artificial Intelligence & Data Engineering  
-**University of Vaasa, Finland** | 2025 – 2027 (Reading)
-- Focus areas: Machine Learning, Data Engineering, Governance, Analytics
-
-### Bachelor of Science (BSc) – Cyber Security (First Class Honours)  
-**University of Gloucestershire, United Kingdom** | 2019 – 2020
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Certifications
-- Certified Ethical Hacker (CEH v12)
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Security, Compliance & Identity Fundamentals (SC-900)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Tools & Technologies
-- Microsoft Sentinel, Microsoft Defender (EASM, XDR)
-- Microsoft Defender for Cloud (CSPM)
-- Azure Kubernetes Service (AKS)
-- Power BI
-- ServiceNow, Cherwell
-- Cisco Routers & Switches, Palo Alto Firewalls
-- Infoblox (DNS, DHCP, IPAM)
-- Venafi (Certificate Management)
-- SolarWinds, Nagios, Grafana
-- GitHub, GitLab
-- Visual Studio Code, PyCharm
-- Jira, Trello
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Languages
-- English – Professional
-- Finnish – Basic
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshan15308&show_icons=true&locale=en&layout=compact" alt="lakshan15308" /></p>
