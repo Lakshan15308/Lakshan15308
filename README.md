@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Masters of Science Degree, in Artificial Intelligence and Data Engineering.**
 
+- 💬 Ask me about **Cybersecurity, Machine Learning and AI**
+
 - 📫 How to reach me **lakshansiriwardhana@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
