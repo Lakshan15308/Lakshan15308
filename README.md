@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshan-siriwardhana-5811b3121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshan-siriwardhana-5811b3121/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/lakshan-siriwardhana-5811b3121/](https://www.linkedin.com/in/lakshan-siriwardhana-5811b3121/) " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshan-siriwardhana-5811b3121/" height="30" width="40" /></a>
 <a href="https://instagram.com/luksh_thorstein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luksh_thorstein" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@lakshan_siriwardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lakshan_siriwardhana" height="30" width="40" /></a>
 </p>
