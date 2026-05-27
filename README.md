@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshan Siriwardhana</h1>
 <h3 align="center">Cybersecurity Expert | Cloud Security | AI & Data Engineering Enthusiast | Network Admin Specialist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshan15308" alt="lakshan15308" /></a> </p>
-
 - 🌱 I’m currently learning **Masters of Science Degree, in Artificial Intelligence and Data Engineering.**
 
 - 💬 Ask me about **Cybersecurity, Machine Learning and AI**
